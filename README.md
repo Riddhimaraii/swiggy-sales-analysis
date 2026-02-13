@@ -83,7 +83,7 @@ This dataset enables analysis of revenue, demand trends, and operational efficie
 
 ## 🚀 How to Run This Project
 
-1. Clone the repository:
+
    ```bash
    git clone https://github.com/Riddhimaraii/swiggy-sales-analysis.git
    cd swiggy-sales-analysis
