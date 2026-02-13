@@ -85,26 +85,35 @@ This dataset enables analysis of revenue, demand trends, and operational efficie
 1. Clone the repository:
    ```bash
    git clone https://github.com/Riddhimaraii/swiggy-sales-analysis.git
-Navigate to the project folder:
-
+2. Navigate to the project folder:
 cd swiggy-sales-analysis
-Install required libraries:
 
+3. Install required libraries:
 pip install -r requirements.txt
-Run the notebook:
 
+4.Run the notebook:
 jupyter notebook
 Open Swiggy Sales Analysis.ipynb to explore the complete analysis.
 
-📈 Key Insights & Findings
+
+⬆️ Notice:
+- Every ```bash has a matching ```
+- There is a blank line before the next section
+
+---
+
+# ✅ Then Add This (With Proper Spacing)
+
+```markdown
+---
+
+## 📈 Key Insights & Findings
+
 This project helps identify:
 
-Peak order hours and high-demand days
+- Peak order hours and high-demand days
+- Top-performing food categories
+- Revenue contribution by restaurants
+- Patterns in customer ordering behavior
+- Opportunities to optimize delivery and marketing strategies
 
-Top-performing food categories
-
-Revenue contribution by restaurants
-
-Patterns in customer ordering behavior
-
-Opportunities to optimize delivery and marketing strategies
