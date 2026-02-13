@@ -91,9 +91,10 @@ cd swiggy-sales-analysis
 3. Install required libraries:
 pip install -r requirements.txt
 
-4.Run the notebook:
-jupyter notebook
-Open Swiggy Sales Analysis.ipynb to explore the complete analysis.
+4. Run the notebook:
+   ```bash
+   jupyter notebook
+
 
 
 ⬆️ Notice:
