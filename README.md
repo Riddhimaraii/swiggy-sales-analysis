@@ -6,7 +6,7 @@ A data analysis project focused on exploring and understanding sales performance
 
 ## 📌 Project Overview
 
-Swiggy operates in a fast-paced food delivery ecosystem where understanding order patterns and customer preferences is crucial.  
+Swiggy operates in a fast-paced food delivery ecosystem where understanding order patterns and customer preferences is crucial.
 
 This project analyzes Swiggy sales data to:
 
@@ -19,12 +19,12 @@ This project analyzes Swiggy sales data to:
 ---
 
 ## 📂 Repository Structure
-
 Swiggy-Sales-Analysis/
-├── 📄 Swiggy Sales Analysis.ipynb — Main Jupyter Notebook with analysis
-├── 📄 swiggy_data.csv — Dataset used for analysis
-├── 📄 requirements.txt — Required Python libraries
-└── 📄 README.md — Project documentation
+│
+├── Swiggy Sales Analysis.ipynb # Main Jupyter Notebook with analysis
+├── swiggy_data.csv # Dataset used for analysis
+├── requirements.txt # Required Python libraries
+└── README.md # Project documentation
 
 
 ---
@@ -35,7 +35,8 @@ Swiggy-Sales-Analysis/
 - **Jupyter Notebook**
 - **Pandas** – Data cleaning and manipulation
 - **NumPy** – Numerical computations
-- **Matplotlib & Seaborn** – Data visualization
+- **Matplotlib**
+- **Seaborn**
 - **Plotly (optional)** – Interactive visualizations
 
 ---
@@ -85,36 +86,24 @@ This dataset enables analysis of revenue, demand trends, and operational efficie
 1. Clone the repository:
    ```bash
    git clone https://github.com/Riddhimaraii/swiggy-sales-analysis.git
-2. Navigate to the project folder:
-cd swiggy-sales-analysis
-
-3. Install required libraries:
-pip install -r requirements.txt
-
-4. Run the notebook:
-   ```bash
+   cd swiggy-sales-analysis
+   pip install -r requirements.txt
    jupyter notebook
 
-
-
-⬆️ Notice:
-- Every ```bash has a matching ```
-- There is a blank line before the next section
-
----
-
-# ✅ Then Add This (With Proper Spacing)
-
-```markdown
----
-
-## 📈 Key Insights & Findings
+📈 Key Insights & Findings
 
 This project helps identify:
 
-- Peak order hours and high-demand days
-- Top-performing food categories
-- Revenue contribution by restaurants
-- Patterns in customer ordering behavior
-- Opportunities to optimize delivery and marketing strategies
+Peak order hours and high-demand days
+
+Top-performing food categories
+
+Revenue contribution by restaurants
+
+Patterns in customer ordering behavior
+
+Opportunities to optimize delivery and marketing strategies
+
+
+
 
