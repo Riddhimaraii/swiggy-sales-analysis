@@ -94,15 +94,15 @@ This dataset enables analysis of revenue, demand trends, and operational efficie
 
 This project helps identify:
 
-Peak order hours and high-demand days
+•Peak order hours and high-demand days
 
-Top-performing food categories
+•Top-performing food categories
 
-Revenue contribution by restaurants
+•Revenue contribution by restaurants
 
-Patterns in customer ordering behavior
+•Patterns in customer ordering behavior
 
-Opportunities to optimize delivery and marketing strategies
+•Opportunities to optimize delivery and marketing strategies
 
 
 
